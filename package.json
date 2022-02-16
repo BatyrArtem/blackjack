@@ -1,4 +1,10 @@
 {
+  "homepage": "https://BatyrArtem.github.io/blackjack",
+
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
